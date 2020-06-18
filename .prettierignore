@@ -1,0 +1,17 @@
+*.test.js.snap
+.babelrc
+.browserslistrc
+.eslintignore
+.eslintrc
+.flowconfig
+.prettierignore
+.stylelintrc
+*.html
+*.png
+*.info
+*.ico
+style/fonts
+*.xml
+*.svg
+*.gif
+*.log
