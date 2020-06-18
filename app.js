@@ -16,4 +16,4 @@ app.use(function (req, res, next) {
     next();
 });
 app.use(routes_1.routes);
-app.listen(1337, function () { return console.log("Listening on port 1337"); });
+app.listen(process.env.PORT || 3000, function () { return console.log("Listening on port 1337"); });

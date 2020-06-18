@@ -2,6 +2,6 @@
 	"watch": ["./"],
 	"ext": "ts",
 	"execMap": {
-		"ts": "ts-node index.ts"
+		"ts": "ts-node app.ts"
 	}
 }
